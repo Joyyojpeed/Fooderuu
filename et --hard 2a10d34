@@ -1,0 +1,11 @@
+[33mef3171c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{0}: checkout: moving from main to main
+[33mef3171c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{1}: reset: moving to origin/main
+[33m2a10d34[m[33m ([m[1;31morigin/master[m[33m)[m HEAD@{2}: checkout: moving from main to main
+[33m2a10d34[m[33m ([m[1;31morigin/master[m[33m)[m HEAD@{3}: Branch: renamed refs/heads/master to refs/heads/main
+[33m2a10d34[m[33m ([m[1;31morigin/master[m[33m)[m HEAD@{5}: commit: fix: vercel deployment structure
+[33m4608116[m HEAD@{6}: commit: some changes
+[33m24f50cc[m HEAD@{7}: commit: env correction
+[33m4a3ce51[m HEAD@{8}: commit: huge updates
+[33mddb4217[m HEAD@{9}: commit: Profile update and auth modification
+[33m7e96895[m HEAD@{10}: commit: `feat: updated auth and profile functionality with NextAuth and MongoDB`
+[33m89db62d[m HEAD@{11}: commit (initial): initial commit

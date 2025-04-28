@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "module": "ES2020",
+    "paths": {
+      "@/app/*": ["./src/app/*"],
+      "@/models/*": ["models/*"],
+      "@/components/*": ["./src/components/*"]
+    }
+  },
+  "include": ["**/*.js", "**/*.jsx"],
+  "exclude": ["node_modules", ".next"]
+}
